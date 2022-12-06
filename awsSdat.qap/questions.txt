@@ -1,0 +1,19 @@
+How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
+
+It took about 12 hours to complete  as I was having issues with running it on local. I had it working on AWS but tried to fix something and broke it again. It was a great learning curve and tested my brain and skills.
+
+2. What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
+
+I have used the lectures and youtube to help me understand the code.
+
+3. Did you need to ask any of your friends in solving the problems. (If yes, please mention name of the friend. They must be amongst your class fellows.)
+
+I asked Brady and Riley for some help with setting up part of the controller.
+
+4. Did you need to ask questions to any of your instructors? If so, how many questions did you ask (or how many help sessions did you require)?
+
+I have asked Cameron about how to connect after running the Docker-Compose up command as it kept giving me Bean errors.
+
+5. Rate (subjectively) the difficulty of each question from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one.
+
+With 10 being the hardest, Ill give this a 8.5. There was a couple things that I had some issue with, but overall I understood the concepts and how everything works. I had trouble with getting it to connect properly and then running it through Postman. I will spend more time studying postman and Docker as it was a learning curve for sure! I overthought a couple things and made the question more difficult than it should have been! I was stressed but it was a fun challenge!
